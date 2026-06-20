@@ -2,18 +2,18 @@
 
 A portfolio of self-initiated investment memoranda and supporting LBO models, prepared independently and used as the basis for outreach to UK mid-market private equity funds. Each deal is an original thesis — target identification, business analysis, valuation, and a fully-built LBO : sourced and written from scratch, not coursework.
 
-**Aditya Kumbhar** — MEng Mechanical with Automotive Engineering, University of Bath (2027) · McLaren Automotive placement (Body Systems / Passive Safety) · Vehicle Dynamics lead, Team Bath Racing Electric
+**Aditya Kumbhar** — MEng Mechanical with Automotive Engineering, University of Bath (2027) · McLaren Automotive placement (Body Systems / Passive Safety) ·  Team Bath Racing Electric
 📧 ak3311@bath.ac.uk · 📱 +44 7394 290307 · Bath, UK
 
 ---
 
 ## The deals
 
-| # | Target | Thesis | Fund targeted | Status |
-|---|--------|--------|---------------|--------|
-| 1 | **Racelogic** (VBOX) | Take-private / platform — motorsport & ADAS test instrumentation | Foresight Group | Self-initiated outreach |
-| 2 | **Tyre Spot + Kerrs Tyres** | Buy-and-build — fast-fit / automotive aftermarket roll-up | Chiltern Capital / Key Capital | In active outreach |
-| 3 | **Sigma Components Holdings** | Carve-out / buyout — UK aerospace precision machining | Rubicon Partners | Presented (management-style meeting) |
+| # | Target | Thesis | Fund targeted | 
+|---|--------|--------|---------------|
+| 1 | **Racelogic** (VBOX) | Take-private / platform — motorsport & ADAS test instrumentation | Foresight Group | 
+| 2 | **Tyre Spot + Kerrs Tyres** | Buy-and-build — fast-fit / automotive aftermarket roll-up | Chiltern Capital  | 
+| 3 | **Sigma Components Holdings** | Carve-out / buyout — UK aerospace precision machining | Rubicon Partners | 
 
 Each folder contains the **investment thesis** (PDF) and a **standalone LBO model** (Excel, plus PDF for quick viewing).
 
