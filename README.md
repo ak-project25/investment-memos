@@ -2,7 +2,7 @@
 
 Three original private equity theses I sourced and built end-to-end — target identification, business and competitive analysis, valuation against named precedents, and a fully-linked LBO. None of this is coursework: each is a real, actionable opportunity I identified for a specific UK fund, then presented directly to an investment professional there
 
-**Aditya Kumbhar** — MEng Mechanical with Automotive Engineering, University of Bath (2027) · McLaren Automotive placement (Body Systems / Passive Safety) ·  Team Bath Racing Electric
+**Aditya Kumbhar** — MEng Mechanical with Automotive Engineering, University of Bath (2027) · McLaren Automotive placement (Body Systems Engineering) ·  Team Bath Racing Electric
 📧 ak3311@bath.ac.uk · 📱 +44 7394 290307 · Bath, UK
 
 ---
