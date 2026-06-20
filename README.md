@@ -43,7 +43,6 @@ Every memo follows the same discipline:
 - **Valuation** — named precedent transactions and trading comparables, not assumed multiples.
 - **Returns** — a fully-linked LBO with explicit entry/exit, debt structure, and an MOIC / IRR bridge under base and downside cases.
 
-The common thread is industrials, mobility, and engineering-led businesses — sectors where a mechanical engineering background and operating exposure from McLaren translate into a genuine diligence edge.
 
 ---
 
