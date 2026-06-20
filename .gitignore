@@ -1,0 +1,8 @@
+# LibreOffice / Office lock + temp artifacts (do not commit)
+.~lock.*#
+*.tmp
+~$*
+
+# OS junk
+.DS_Store
+Thumbs.db

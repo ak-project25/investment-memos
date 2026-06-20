@@ -1,0 +1,52 @@
+# Self-Initiated Private Equity Investment Memos
+
+A portfolio of self-initiated investment memoranda and supporting LBO models, prepared independently and used as the basis for outreach to UK mid-market private equity funds. Each deal is an original thesis — target identification, business analysis, valuation, and a fully-built LBO — sourced and written from scratch, not coursework.
+
+**Aditya Kumbhar** — MEng Mechanical with Automotive Engineering, University of Bath (2027) · McLaren Automotive placement (Body Systems / Passive Safety) · Vehicle Dynamics lead, Team Bath Racing Electric
+📧 ak3311@bath.ac.uk · 📱 +44 7394 290307 · Bath, UK
+
+---
+
+## The deals
+
+| # | Target | Thesis | Fund targeted | Status |
+|---|--------|--------|---------------|--------|
+| 1 | **Racelogic** (VBOX) | Take-private / platform — motorsport & ADAS test instrumentation | Foresight Group | Self-initiated outreach |
+| 2 | **Tyre Spot + Kerrs Tyres** | Buy-and-build — fast-fit / automotive aftermarket roll-up | Chiltern Capital / Key Capital | In active outreach |
+| 3 | **Sigma Components Holdings** | Carve-out / buyout — UK aerospace precision machining | Rubicon Partners | Presented (management-style meeting) |
+
+Each folder contains the **investment thesis** (PDF) and a **standalone LBO model** (Excel, plus PDF for quick viewing).
+
+```
+investment-memos/
+├── racelogic-foresight/
+│   ├── Racelogic_Investment_Thesis.pdf
+│   ├── Racelogic_LBO_Model.pdf
+│   └── Racelogic_LBO_Model.xlsx
+├── tyre-spot-chiltern/
+│   ├── Tyre_Spot_Investment_Memo.pdf
+│   └── Tyre_Spot_LBO_Model.xlsx
+└── sigma-components-rubicon/
+    ├── Sigma_Components_Investment_Thesis.pdf
+    ├── Sigma_LBO_Model.pdf
+    └── Sigma_LBO_Model.xlsx
+```
+
+---
+
+## Approach
+
+Every memo follows the same discipline:
+
+- **Sourcing** — targets identified to fit a specific fund's mandate (sector, cheque size, ownership, geography), not picked at random.
+- **Diligence** — built from primary sources: Companies House filings, audited accounts, and public market data.
+- **Valuation** — named precedent transactions and trading comparables, not assumed multiples.
+- **Returns** — a fully-linked LBO with explicit entry/exit, debt structure, and an MOIC / IRR bridge under base and downside cases.
+
+The common thread is industrials, mobility, and engineering-led businesses — sectors where a mechanical engineering background and operating exposure from McLaren translate into a genuine diligence edge.
+
+---
+
+## Disclaimer
+
+All analysis is based on publicly available information (Companies House, audited annual reports, public market data) and contains no confidential or non-public material. These are independent, self-initiated exercises and do not constitute investment advice, a recommendation, or an offer. Fund names indicate the intended recipient of the thesis and do not imply any engagement, endorsement, or relationship. Views are my own.
