@@ -1,6 +1,6 @@
 # Self-Initiated Private Equity Investment Memos
 
-A portfolio of self-initiated investment memoranda and supporting LBO models, prepared independently and used as the basis for outreach to UK mid-market private equity funds. Each deal is an original thesis — target identification, business analysis, valuation, and a fully-built LBO — sourced and written from scratch, not coursework.
+A portfolio of self-initiated investment memoranda and supporting LBO models, prepared independently and used as the basis for outreach to UK mid-market private equity funds. Each deal is an original thesis — target identification, business analysis, valuation, and a fully-built LBO : sourced and written from scratch, not coursework.
 
 **Aditya Kumbhar** — MEng Mechanical with Automotive Engineering, University of Bath (2027) · McLaren Automotive placement (Body Systems / Passive Safety) · Vehicle Dynamics lead, Team Bath Racing Electric
 📧 ak3311@bath.ac.uk · 📱 +44 7394 290307 · Bath, UK
